@@ -7,7 +7,7 @@
 using namespace std;
 
 //#define EMPLOYEE
-#define CHECKING
+#define CHECKING //comment/uncomment untuk merubah checking dan saving
 
 void menu1();
 void menu2();
