@@ -6,8 +6,8 @@
 
 using namespace std;
 
-//#define EMPLOYEE
-#define CHECKING //comment/uncomment untuk merubah checking dan saving
+//#define EMPLOYEE //uncomment untuk merubah nilai minimum balance, service charge, dan interest rate secara bebas
+#define CHECKING //comment untuk merubah ke saving
 
 void menu1();
 void menu2();
